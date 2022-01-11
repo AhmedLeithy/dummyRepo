@@ -423,7 +423,7 @@
             "200": {
                 "description": "Deploy Project status",
                 "schema": {
-                "$ref": "#/definitions/JobState"
+                  "$ref": "#/definitions/JobState"
                 }
             },
           "202": {
